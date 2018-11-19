@@ -1,2 +1,2 @@
-# Smart-Solar-Case
+# Smart Solar Case
 2016 Summer
